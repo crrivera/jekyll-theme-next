@@ -213,6 +213,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/crrivera
+  LinkedIn: https://www.linkedin.com/in/crrivera/
 
 
 # Social Links Icons
@@ -225,6 +226,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
+  LinkedIn: linkedin-square
   Twitter: twitter
   Weibo: weibo
 
